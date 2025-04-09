@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uddeshay Srivastava</h1>
-<h3 align="center">Software Developer(Frontend Developer) & Data Analyst</h3>
+<h3 align="center"> I am Passionate Software Developer(Frontend Developer) & Data Analystics</h3>
 
 - 🔭 I’m currently working on **Web Development Technology(React.js ,JavaScript) also I have the Knowledge about tha Python.**
 

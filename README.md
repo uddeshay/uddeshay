@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQExqumwSLFb7Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712817477710?e=1749686400&v=beta&t=3P_5TfHrWjw2ck_cwH0UtYEJgE7lkFh9SPEd5VzO48I)]
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQExqumwSLFb7Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712817477710?e=1749686400&v=beta&t=3P_5TfHrWjw2ck_cwH0UtYEJgE7lkFh9SPEd5VzO48I)
 <h1 align="center">Hi 👋, I'm Uddeshay Srivastava</h1>
 <h3 align="center">Passionate Software Development(Frontend Developer) & Data Analytics</h3>
 <img align="right" alt="Coding" width="250" height="200" src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'></img>

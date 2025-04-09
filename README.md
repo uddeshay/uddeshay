@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uddeshay Srivastava</h1>
 <h3 align="center">Passionate Software Development(Frontend Developer) & Data Analytics</h3>
-<img align="right" alt="Coding" width="250" height="350" src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'></img>
+<img align="right" alt="Coding" width="250" height="300" src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'></img>
 
 - 🔭 I’m currently working on **Sofware Development(Frontend Development) and Data Analytics.**
 

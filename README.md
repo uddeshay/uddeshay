@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uddeshay Srivastava</h1>
-<h3 align="center">Software Developer(Frontend Developer) & Data Analyst</h3>
+<h3 align="center">Passionate Software Development(Frontend Developer) & Data Analyst</h3>
 
-- 🔭 I’m currently working on **Softmind Infotech Pvt Ltd.**
+- 🔭 I’m currently working on **Sofware Development(Frontend Development) and Data Analytics.**
 
 - 🌱 I’m currently learning **Web Development-React.js,Router,JavaScript,HTML5,CSS,Data Analytics,Python,Numpy,Pandas,Matplotlib,SQL,Power BI**
 
